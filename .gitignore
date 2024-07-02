@@ -1,0 +1,7 @@
+*.txt
+*.spec
+dist
+build
+.vscode
+sdf
+sdfa
